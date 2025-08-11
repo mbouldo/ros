@@ -1,5 +1,8 @@
 # 1. Hypertension (Blood Pressure)
-Any headaches? Where and how severe?
+
+Do you monitor your blood pressure at home? What readings?
+
+Any headaches? Where and how severe, time length
 
 Any vision changes (blurring, double vision)?
 
@@ -7,23 +10,19 @@ Chest pain or tightness?
 
 Dizziness, especially on standing?
 
-Medication adherence: are you taking all prescribed meds?
-
 Shortness of breath or palpitations?
 
-History of kidney disease or swelling in legs?
-
-Any side effects from medications?
-
-Do you monitor your blood pressure at home? What readings?
+Swelling in legs?
 
 Salt intake and dietary habits?
 
 Exercise frequency and type?
 
+Any symptoms suggesting secondary hypertension (snoring, sweating, tremors, headaches, hyperthyroid)?
+
 Family history of hypertension or heart disease?
 
-Any symptoms suggesting secondary hypertension (snoring, sweating, tremors)?
+Medication adherence: are you taking all prescribed meds?
 
 # 2. Diabetes Management
 Increased thirst or urination?
@@ -34,8 +33,6 @@ Numbness, tingling, or burning in hands or feet?
 
 Wounds or infections that are slow to heal?
 
-Medication adherence, blood sugar monitoring?
-
 Unexplained weight changes?
 
 Symptoms of hypoglycemia (sweating, shakiness, confusion)?
@@ -45,6 +42,8 @@ Symptoms of hyperglycemia (nausea, vomiting, abdominal pain)?
 Dietary habits, exercise routine?
 
 History of diabetic complications (neuropathy, retinopathy, kidney disease)?
+
+Medication adherence, blood sugar monitoring?
 
 # 3. Upper Respiratory Symptoms (Cough, Sore Throat, Congestion)
 Duration of symptoms?
